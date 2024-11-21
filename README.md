@@ -10,7 +10,7 @@
 
 ---
 
-![Project Banner](https://via.placeholder.com/1200x400?text=Data+Visualizer+with+ASCII+Charts)  
+![Screenshot_2024_1121_181319](https://github.com/user-attachments/assets/6ef4ec92-c177-451e-85ab-135d9a1ac0e6)
 
 🚀 **Data Visualizer with ASCII Charts** is a terminal-based tool for quick and intuitive data visualization. It supports CSV and JSON data files and generates beautiful ASCII-based bar charts and line graphs directly in your terminal.  
 
@@ -29,13 +29,13 @@
 ## 📸 Screenshots
 
 ### Main Menu
-![Main Menu Screenshot](https://via.placeholder.com/800x400?text=Main+Menu+Screenshot)
+![Screenshot_2024_1121_181319](https://github.com/user-attachments/assets/98950bcf-1e0d-4435-80a8-44ea7d7af290)
 
 ### CSV Bar Chart Visualization
-![Bar Chart Screenshot](https://via.placeholder.com/800x400?text=Bar+Chart+Screenshot)
+![Screenshot_2024_1121_181437](https://github.com/user-attachments/assets/a6819822-9940-4e57-bdaa-405c914ce80e)
 
 ### JSON Line Graph Visualization
-![Line Graph Screenshot](https://via.placeholder.com/800x400?text=Line+Graph+Screenshot)
+![Screenshot_2024_1121_181809](https://github.com/user-attachments/assets/c48c8292-f4b5-4f7d-8178-dc1db61d0dfd)
 
 ---
 
