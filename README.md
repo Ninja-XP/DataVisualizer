@@ -154,7 +154,16 @@ Thanks to the following people who have contributed to this project:
       <a href="https://github.com/craftingeagle">
         <img src="https://avatars.githubusercontent.com/u/162383653?v=4" width="100px;" alt="Contributor"/>
         <br />
-        <sub><b>ContributorName</b></sub>
+        <sub><b>Code Crafting Eagle</b></sub>
+      </a>
+      <br />
+      💡 Contributor
+    </td>
+    <td align="center">
+      <a href="https://github.com/softzeststudio">
+        <img src="https://avatars.githubusercontent.com/u/180181522?v=4" width="100px;" alt="Contributor"/>
+        <br />
+        <sub><b>SoftZest Studio</b></sub>
       </a>
       <br />
       💡 Contributor
