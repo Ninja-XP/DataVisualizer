@@ -1,5 +1,17 @@
 # Data Visualizer with ASCII Charts
 
+![Build Status](https://img.shields.io/github/workflow/status/Ninja-XP/DataVisualizer/CI?style=flat-square&logo=github&logoColor=white&color=2bbc8a)
+![Version](https://img.shields.io/github/v/release/Ninja-XP/DataVisualizer?style=flat-square&color=blue)
+![License](https://img.shields.io/github/license/Ninja-XP/DataVisualizer?style=flat-square&color=brightgreen)
+![Contributors](https://img.shields.io/github/contributors/Ninja-XP/DataVisualizer?style=flat-square&color=orange)
+![Issues](https://img.shields.io/github/issues/Ninja-XP/DataVisualizer?style=flat-square&color=red&logo=github)
+![Last Commit](https://img.shields.io/github/last-commit/Ninja-XP/DataVisualizer?style=flat-square&color=purple&logo=github)
+![Python Version](https://img.shields.io/pypi/pyversions/data-visualizer?style=flat-square&color=blueviolet)
+![Stars](https://img.shields.io/github/stars/Ninja-XP/DataVisualizer?style=flat-square&color=gold&logo=github)
+![Forks](https://img.shields.io/github/forks/Ninja-XP/DataVisualizer?style=flat-square&color=yellow&logo=github)
+
+---
+
 ![Project Banner](https://via.placeholder.com/1200x400?text=Data+Visualizer+with+ASCII+Charts)  
 
 🚀 **Data Visualizer with ASCII Charts** is a terminal-based tool for quick and intuitive data visualization. It supports CSV and JSON data files and generates beautiful ASCII-based bar charts and line graphs directly in your terminal.  
