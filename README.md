@@ -1,14 +1,14 @@
 # Data Visualizer with ASCII Charts
 
-[![Version](https://img.shields.io/static/v1?label=Version&message=1.0&color=blue&style=for-the-badge&logo=python)](https://github.com/Ninja-XP/DataVisualizer.git)
+[![Version](https://img.shields.io/static/v1?label=Version&message=1.0&color=blue&style=for-the-badge&logo=appveyor)](https://github.com/Ninja-XP/DataVisualizer.git)
 [![Build Status](https://img.shields.io/static/v1?label=Build&message=Passing&color=green&style=for-the-badge&logo=github)](https://github.com/Ninja-XP/DataVisualizer/actions)
 [![License](https://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge&logo=opensource)](https://github.com/Ninja-XP/DataVisualizer/blob/main/LICENSE)
 [![Contributors](https://img.shields.io/github/contributors/Ninja-XP/DataVisualizer?style=for-the-badge&color=orange)](https://github.com/Ninja-XP/DataVisualizer/graphs/contributors)
 [![Stars](https://img.shields.io/github/stars/Ninja-XP/DataVisualizer?style=for-the-badge&color=gold&logo=github)](https://github.com/Ninja-XP/DataVisualizer)
-[![Python Version](https://img.shields.io/pypi/pyversions/data-visualizer?style=for-the-badge&color=blueviolet)](https://github.com/Ninja-XP/DataVisualizer)
+[![Python Version](https://img.shields.io/static/v1?label=Python&message=3.x&color=blue&style=for-the-badge&logo=python)](https://github.com/Ninja-XP/DataVisualizer)
 [![Issues](https://img.shields.io/github/issues/Ninja-XP/DataVisualizer?style=for-the-badge&color=red&logo=github)](https://github.com/Ninja-XP/DataVisualizer/issues)
 [![Last Commit](https://img.shields.io/github/last-commit/Ninja-XP/DataVisualizer?style=for-the-badge&color=purple&logo=github)](https://github.com/Ninja-XP/DataVisualizer/commits/main)
-[![Code Quality](https://img.shields.io/codeclimate/quality-score/Ninja-XP/DataVisualizer?style=for-the-badge&color=green)](https://codeclimate.com/github/Ninja-XP/DataVisualizer
+[![Code Quality](https://img.shields.io/codeclimate/quality-score/Ninja-XP/DataVisualizer?style=for-the-badge&color=green)](https://codeclimate.com/github/Ninja-XP/DataVisualizer)
 
 ---
 
