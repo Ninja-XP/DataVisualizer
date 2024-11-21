@@ -122,7 +122,30 @@ When you run the tool, you’ll see a menu like this:
 
 ## 🙌 Contributors
 
-<table> <tr> <td align="center"> <a href="https://github.com/Ninja-XP"> <img src="https://via.placeholder.com/100" width="100px;" alt="NinjaXP"/> <br /> <sub><b>NinjaXP</b></sub> </a> <br /> 🚀 Maintainer </td> <td align="center"> <a href="https://github.com/YourContributor"> <img src="https://via.placeholder.com/100" width="100px;" alt="Contributor"/> <br /> <sub><b>ContributorName</b></sub> </a> <br /> 💡 Contributor </td> </tr> </table>
+Thanks to the following people who have contributed to this project:  
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ninja-XP">
+        <img src="https://avatars.githubusercontent.com/u/189180265?v=4" width="100px;" alt="NinjaXP"/>
+        <br />
+        <sub><b>NinjaXP</b></sub>
+      </a>
+      <br />
+      🚀 Maintainer
+    </td>
+    <td align="center">
+      <a href="https://github.com/YourContributor">
+        <img src="https://via.placeholder.com/100" width="100px;" alt="Contributor"/>
+        <br />
+        <sub><b>ContributorName</b></sub>
+      </a>
+      <br />
+      💡 Contributor
+    </td>
+  </tr>
+</table>
 
 Want to see your name here? Contribute to the project!
 
