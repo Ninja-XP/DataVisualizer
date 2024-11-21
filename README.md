@@ -6,8 +6,7 @@
 [![Contributors](https://img.shields.io/github/contributors/Ninja-XP/DataVisualizer?style=for-the-badge&color=orange)](https://github.com/Ninja-XP/DataVisualizer/graphs/contributors)
 [![Stars](https://img.shields.io/github/stars/Ninja-XP/DataVisualizer?style=for-the-badge&color=gold&logo=github)](https://github.com/Ninja-XP/DataVisualizer)
 [![Python Version](https://img.shields.io/static/v1?label=Python&message=3.x&color=blue&style=for-the-badge&logo=python)](https://github.com/Ninja-XP/DataVisualizer)
-[![Issues](https://img.shields.io/github/issues/Ninja-XP/DataVisualizer?style=for-the-badge&color=red&logo=github)](https://github.com/Ninja-XP/DataVisualizer/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/Ninja-XP/DataVisualizer?style=for-the-badge&color=purple&logo=github)](https://github.com/Ninja-XP/DataVisualizer/commits/main)
+[![Issues](https://img.shields.io/github/issues/Ninja-XP/DataVisualizer?style=for-the-badge&color=red&logo=github)](https://github.com/Ninja-XP/DataVisualizer/issues) [![Last Commit](https://img.shields.io/github/last-commit/Ninja-XP/DataVisualizer?style=for-the-badge&color=purple&logo=github)](https://github.com/Ninja-XP/DataVisualizer/commits/main)
 
 ---
 
