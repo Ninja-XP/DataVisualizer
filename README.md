@@ -151,8 +151,8 @@ Thanks to the following people who have contributed to this project:
       🚀 Maintainer
     </td>
     <td align="center">
-      <a href="https://github.com/YourContributor">
-        <img src="https://via.placeholder.com/100" width="100px;" alt="Contributor"/>
+      <a href="https://github.com/craftingeagle">
+        <img src="https://avatars.githubusercontent.com/u/162383653?v=4" width="100px;" alt="Contributor"/>
         <br />
         <sub><b>ContributorName</b></sub>
       </a>
