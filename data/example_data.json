@@ -1,0 +1,6 @@
+[
+    {"label": "2020", "Sales": 100, "Expenses": 50},
+    {"label": "2021", "Sales": 150, "Expenses": 80},
+    {"label": "2022", "Sales": 200, "Expenses": 120},
+    {"label": "2023", "Sales": 250, "Expenses": 150}
+]

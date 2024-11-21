@@ -1,0 +1,6 @@
+{
+    "chart_width": 50,
+    "chart_height": 20,
+    "default_csv": "data/sample_data.csv",
+    "default_json": "data/example_data.json"
+}
