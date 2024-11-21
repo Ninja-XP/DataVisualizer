@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/static/v1?label=Version&message=1.0&color=blue&style=for-the-badge&logo=appveyor)](https://github.com/Ninja-XP/DataVisualizer.git)
 [![Build Status](https://img.shields.io/static/v1?label=Build&message=Passing&color=green&style=for-the-badge&logo=github)](https://github.com/Ninja-XP/DataVisualizer/actions)
-[![License](https://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge&logo=opensource)](https://github.com/Ninja-XP/DataVisualizer/blob/main/LICENSE)
+[![License](https://img.shields.io/static/v1?label=License&message=MIT&color=darkviolet&style=for-the-badge&logo=github)](https://github.com/Ninja-XP/DataVisualizer/blob/main/LICENSE)
 [![Contributors](https://img.shields.io/github/contributors/Ninja-XP/DataVisualizer?style=for-the-badge&color=orange)](https://github.com/Ninja-XP/DataVisualizer/graphs/contributors)
 [![Stars](https://img.shields.io/github/stars/Ninja-XP/DataVisualizer?style=for-the-badge&color=gold&logo=github)](https://github.com/Ninja-XP/DataVisualizer)
 [![Python Version](https://img.shields.io/static/v1?label=Python&message=3.x&color=blue&style=for-the-badge&logo=python)](https://github.com/Ninja-XP/DataVisualizer)
