@@ -74,20 +74,25 @@ Ensure the following tools are installed on your system:
     git clone https://github.com/Ninja-XP/DataVisualizer.git
     cd DataVisualizer
     ```
+3. Executable Permissions: Ensure the scripts are executable by running:
 
-2. Install dependencies:
+   ```bash
+   chmod +x scripts/*.sh
+   ```
+
+3. Install dependencies:
 
     ```bash
     bash scripts/install_dependencies.sh
     ```
 
-3. Run the tool:
+4. Run the tool:
 
     ```bash
     bash scripts/run_visualizer.sh
     ```
 
-4. Update the tool:
+5. Update the tool:
 
     ```bash
     bash scripts/update_tool.sh
@@ -114,7 +119,7 @@ When you run the tool, you’ll see a menu like this:
 
 ```
 
-1. Select an option (e.g., `[1]`` for CSV bar charts).
+1. Select an option (e.g., `[1]` for CSV bar charts).
 
 2. Provide the path to your data file (e.g., `data/sample_data.csv`).
 
